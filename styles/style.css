@@ -66,6 +66,7 @@ p {
 .section-3 {
   display: grid;
   grid-template-columns: 1fr 1fr;
+  padding: 1em;
 }
 
 .section-3 img{
