@@ -72,3 +72,11 @@ p {
   grid-column: span 2;
   width: 60%;
 }
+
+.ball {
+  transition: 0.4s;
+}
+
+.rotate {
+  transform:rotate(180deg);
+}
